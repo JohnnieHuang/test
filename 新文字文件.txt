@@ -1,0 +1,165 @@
+SIBU將開發電子看板系統，想要將員工服務處的會議室管理系統/會議室借用情況整合進來。想請問系統細節。 EXT:17078
+
+
+As a software engineer, I love to write code. I am an indie app developer. As such, I am involved in each step of publishing top rated applications. I do everything: UI design, development, debugging, marketing, and publishing. 
+
+I am proficient in Java, C#, Python, PHP, SQL, JavaScript, Bash, and several other programming languages
+
+
+
+Technical Knowledge-
+
+- Excellent in MS Office (MS Word, MS Excel, MS PowerPoint).
+- Proficient in C, Java, PHP and MYSQL.
+- Well versed in Macromedia, Bugzilla and Photoshop.
+
+Key Responsibilities Handled-
+
+- Design and develop the cost effective and well equipped plan.
+- Design the program for various purposes.
+- Suggest innovative ideas to enhance the working of existing software.
+- Finding the problems and suggest the best possible solution.
+- Presenting the model in front of seniors and elaborate it.
+- Perform various duties as assigned.
+
+Achievements-
+
+- Gave a presentation on “Software science” at ERT University.
+- Made the hacking software for SDF Solutions.
+- Receive ‘Best Employee’ award in 2011.
+
+Employer-
+
+- Working as Software Engineer in ABC Company from March 2010- Present
+- Worked as Software Engineer in SDF Company from Jan 2009- Feb 2010.
+
+Academia-
+
+- Masters in Computer Science engineering.
+- B.tech in Computer Science Engineering.
+
+
+
+About
+I am a software architect motivated by creating great interactive experiences.
+
+My work includes mobile development with Apple iOS for iPhone and iPad, Android, as well as Microsoft’s multi-touch Surface and Windows 8 Tablet. Previously I have done extensive web development with front end and high scale back end systems including data model design.
+
+I have in depth knowledge of video/graphics/2d/3d, however I don't focus only on those areas - My primary goal is to work on projects where world class results and compelling user experiences are the top priorities.
+
+
+
+
+
+
+
+Hello, I’m a software engineer and designer living in Mexico with 4 years of experience. I work as an independent developer. My expert area is native iOS development but I also do Android and Web development with Ruby on Rails.
+
+Over the last 3 years I have worked on more than 20 native iOS apps including client, in-house and own App Store apps. In my spare time I like to code on personal open source projects.
+
+I love challenges and I’m always looking for opportunities to do awesome things
+
+
+
+
+
+
+
+
+
+
+
+
+Hey,
+
+
+I’m a software developer located in Taiwan.
+
+Over the past a few years I’ve developed softwares using several different languages, tools and platforms, including C++, C# and Java, on both Windows and Android OS etc.
+
+Over the past few years, my work has included activities such as:
+
+ Developing one of the most world famous high performance Excel-like component based on .Net Platform(including Window Forms, Wpf and  sliverlight) .
+.Net based Software auto-testing practices.
+ Multi-platform implementations of application protocols over TCP/IP. Including .Net, Mono, Java, and cross-platform c++ etc.
+Write customized  Windows Powershell cmdlets.
+Implementation of Windows authentication protocol NTLM .
+zip file format.
+7z file editor on multi-platform.
+C++ modules of Node.js
+Delphi, Borland c++ components
+Windows 8/Windows store/Windows Metro apps
+Windows Phone/iOS apps
+To be continued……
+
+
+reservation
+
+
+Joe Employee
+555 Main Street
+Sacramento, CA 95628
+myname@myemail dot com
+(555)555-1111
+
+
+SUMMARY
+A results-driven, customer-focused, articulate and analytical Senior Software Engineer who can think “out of the box”. Strong in design and integration problem solving skills. Expert in Java, C#, .NET, and T-SQL with database analysis and design. Skilled in developing business plans, requirements specifications, user documentation, and architectural systems research. Strong written and verbal communications. Interested in a challenging technical track career in an application development environment.Experienced in:
+Engineering web development, all layers, from database to services to user interfaces
+Supporting legacy systems with backups of all cases to/from parallel systems
+Analysis and design of databases and user interfaces
+Managing requirements
+Implementing software development life cycle policies and procedures
+Managing and supporting multiple projects
+Highly adaptable in quickly changing technical environments with very strong organizational and analytical skills
+
+
+EMPLOYMENT
+
+E*Trade Financial, Sacramento, CA July 2002 – Present
+
+Software Engineer (Customer Service Systems)
+Re-engineered customer account software systems used by brokerage teams. Web developer for user interfaces to trading inquiries, support parallel systems.
+Developed and implemented new feedback system for users concerns, bugs, and defect tracking regarding use and functionality of new interfaces.
+Coded web designed interfaces using Java, XML, XSL, AJAX, and JWS.
+Support system for existing intranet for employees, including designing and developing the Advantage@Work system company wide.
+Code and support provided through ASP.NET, T-SQL, Microsoft SQL Server, and Oracle 9i.
+Collaborated in the development of in-house development of new banking software interfaces. Supported existing legacy system to provide newly created cases and insured they were available in the systems in parallel until legacy systems were retired.
+Intel Corporation, Folsom, CA Jan 2000 – Jul 2002
+Systems Programmer (Remote Servers and SSL Product Analyst)
+
+Deployed and tested Remote Installation Services(RIS)-Server Installs on Windows XP.
+Focused deployment of Server builds and handled some client builds.
+Modified Visual Basic applications for use in post-server builds for customizing builds.
+Researched RIS and Active Directory for future deployment world-wide. Presented findings to both the Networking Operating System Network Technology Integration team and the Microsoft Joint Development Team (JDP) at Intel. Produced a document binder for RIS and Active Directory to follow the project to the next team representative.
+Wrote bi-monthly progress reports, participated in weekly staff meetings and JDP team meetings designed to develop white paper processing.
+Provide technical support to the SSL team, managing inventory.
+Participated in testing and use of new SAP system as it was integrated into Intel.
+Managed Chipset products for IO Business Units.
+CSU Chico, Chico, CA 2000 – 2002
+Business Department (Visual Basic Teaching Assistant)
+Computer Science Department (Supervisor MS Office Suite Teaching Assistant)
+
+Supervised all lab assistants, guiding them with student project development.
+Provided one-to-one guidance with Visual Basic programming instruction techniques.
+Wrote small program projects for assignments.
+Presented structured learning labs where students could ask questions regarding Visual Basic Programming construct and syntax.
+Prepared structured teaching guides pertaining to chapter material that complimented the lectures by the professor.
+Provided customized software for tracking student progress throughout the semester. It included reporting for the professor on assessments, projects, homework, lab work, attendance, and overall grades.
+
+
+SOFTWARE SKILLS
+Experience with:
+Databases: MySQL, Oracle, Access, SAP
+Software: Microsoft Office, Remedy, Microsoft SQL Server, DB Artisan, Eclipse, Visual Studio.NET, FrontPage
+Languages: C#, Java, Visual Basic, ASP, XML, XSL, JWS, SQL, and T-SQL
+EDUCATION
+
+CALIFORINA STATE UNIVERSITY, Chico, CA
+BS Computer Science/ Business Minor
+4.0/4.0 GPA
+COLLEGE OF THE SISKIYOUS, Weed, CA
+AS Computer Science
+
+
+2002/03,To learn C language, 2003/05; Developed 3D graphics application with OpenGL API; 2006/02, Become a software engineer; 2006/03, Use C++/MFC to develop mold related wizard; 2008/10,Developed multi-touch related application; 2008/12,Developed 3D web application with Canvas 3d and Javascript; 2009/03,Developed Optical Touch Monitor API; 2009/05, Write Thinking and Coding blog, share my mind; 2009/07, Use WPF to develop the GUI; 2010/03, Developed touch games; 2010/07, Developed 3D gesture control releated application.
